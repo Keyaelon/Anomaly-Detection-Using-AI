@@ -16,7 +16,7 @@ This project implements a machine learning-based anomaly detection system using 
 ## Results
 - Achieved 100% accuracy on sample dataset
 - Successfully detected abnormal traffic patterns
-- 
+  
 ## How It Works
 The model is trained on labeled network traffic data and tested on unseen data to detect abnormal patterns.
 
